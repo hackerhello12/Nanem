@@ -1,1 +1,1 @@
-vless://f73e18e6-1123-4f17-9c23-ff8e6441c04c@5.181.108.253:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=viking.monkeyking99.ru&fp=chrome&type=ws&sni=viking.monkeyking99.ru#Nanem
+vless://82879fd6-c0cb-4033-b4f4-2809a25466a2@95.85.56.108:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=adger2.dota-clips.space&fp=chrome&type=ws&sni=adger2.dota-clips.space#Nanem
